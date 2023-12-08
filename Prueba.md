@@ -49,6 +49,10 @@ Explicación de la línea de comando:
 
 La salida de este comando será:
 
+Juan
+Maria
+Carlos
+
 !![Mi Imagen]((https://github.com/dmarrui/Cut/images/2.png))
 
 https://github.com/dmarrui/Cut/main/images/2.png
