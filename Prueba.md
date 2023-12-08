@@ -49,7 +49,7 @@ Explicación de la línea de comando:
 
 La salida de este comando será:
 
-!![Mi Imagen]((https://github.com/dmarrui/Cut/blob/main/images/2.png))
+!![Mi Imagen]((https://github.com/dmarrui/Cut/images/2.png))
 
 https://github.com/dmarrui/Cut/blob/main/images/2.png
 
