@@ -49,10 +49,6 @@ Explicación de la línea de comando:
 
 La salida de este comando será:
 
-```plaintext
-Juan
-Maria
-Carlos
-```
+![Imagen Cut](URL_de_la_imagen)
 
 Esto muestra únicamente la primera columna (nombres) de cada línea en el archivo.
