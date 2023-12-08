@@ -57,7 +57,7 @@ Carlos
 
 https://github.com/dmarrui/Cut/main/images/2.png
 
-![Mi Imagen](images/auto1.jpg)
+![Mi Imagen](images/33.JPG)
 
 
 Esto muestra únicamente la primera columna (nombres) de cada línea en el archivo.
