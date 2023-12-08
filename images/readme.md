@@ -1,1 +1,1 @@
-Aquí subirán las imagenes
+Aquí subiré las imagenes
