@@ -51,8 +51,9 @@ La salida de este comando será:
 
 !![Mi Imagen]((https://github.com/dmarrui/Cut/images/2.png))
 
-https://github.com/dmarrui/Cut/blob/main/images/2.png
+https://github.com/dmarrui/Cut/main/images/2.png
 
+![Mi Imagen](imagenes/2.png)
 
 
 Esto muestra únicamente la primera columna (nombres) de cada línea en el archivo.
