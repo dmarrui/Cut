@@ -1,4 +1,4 @@
-¡Buenas tardes! Claro, con gusto te proporcionaré un resumen sobre la herramienta "cut" en Linux.
+¡Buenas tardes! 
 
 **Resumen de la herramienta "cut" en Linux:**
 
