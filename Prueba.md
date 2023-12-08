@@ -56,5 +56,3 @@ Carlos
 ```
 
 Esto muestra únicamente la primera columna (nombres) de cada línea en el archivo.
-
-Recuerda que estos son ejemplos simples, y `cut` puede hacer mucho más dependiendo de tus necesidades específicas y del formato de tus datos.
