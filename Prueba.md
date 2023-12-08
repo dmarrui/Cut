@@ -49,6 +49,6 @@ Explicación de la línea de comando:
 
 La salida de este comando será:
 
-!((images/2.png))
+!![Mi Imagen]((images/2.png))
 
 Esto muestra únicamente la primera columna (nombres) de cada línea en el archivo.
