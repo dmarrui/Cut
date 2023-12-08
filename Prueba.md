@@ -27,3 +27,34 @@ cut [opciones] [archivo]
    ```bash
    cut -f 2 archivo.txt
    ```
+
+Supongamos que tienes un archivo de texto llamado `ejemplo.txt` con el siguiente contenido:
+
+```plaintext
+Juan,Perez,25
+Maria,Gomez,30
+Carlos,Ruiz,22
+```
+
+Este archivo representa información sobre personas, donde cada línea tiene el formato "Nombre,Apellido,Edad". Ahora, si deseas extraer solo los nombres (primer campo) de cada línea, puedes usar `cut` de la siguiente manera:
+
+```bash
+cut -d ',' -f 1 ejemplo.txt
+```
+
+Explicación de la línea de comando:
+
+- `-d ','`: Especifica que el delimitador entre campos es la coma.
+- `-f 1`: Indica que deseas extraer el primer campo.
+
+La salida de este comando será:
+
+```plaintext
+Juan
+Maria
+Carlos
+```
+
+Esto muestra únicamente la primera columna (nombres) de cada línea en el archivo.
+
+Recuerda que estos son ejemplos simples, y `cut` puede hacer mucho más dependiendo de tus necesidades específicas y del formato de tus datos.
