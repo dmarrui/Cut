@@ -1,4 +1,4 @@
-** Herramienta "cut" en Linux:**
+**Herramienta "cut" en Linux:**
 
 La herramienta "cut" en sistemas operativos basados en Unix y Linux se utiliza para extraer secciones específicas de líneas de texto de archivos o de la entrada estándar. Su función principal es recortar porciones de texto de cada línea y mostrar el resultado en la salida estándar.
 
